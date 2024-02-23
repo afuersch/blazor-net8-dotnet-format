@@ -8,8 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C00621C7-8074-49C2-B485-2C52759EB65F}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
-		format.cmd = format.cmd
 		build.cmd = build.cmd
+		format-verify.cmd = format-verify.cmd
+		format.cmd = format.cmd
 	EndProjectSection
 EndProject
 Global
