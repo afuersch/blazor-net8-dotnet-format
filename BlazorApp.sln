@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		build.cmd = build.cmd
 		format-verify.cmd = format-verify.cmd
 		format.cmd = format.cmd
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Global
